@@ -3,7 +3,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public float speed = 10f;
-    public float boundY = 3.5f;
+    public float boundY = 3.7f;
 
     public float movementVertical;
 
